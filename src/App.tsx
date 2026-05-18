@@ -1,12 +1,19 @@
-
+import { Header, Footer} from './components';
+import { Hero, About, Stack, Projects, Contact } from './components/sections';
 
 function App() {
 
   return (
     <>
-      <div className="flex justify-center items-center h-screen">
-        <h1>HELLO WORLD</h1>
-      </div>
+      <Header />
+      <main>
+        <Hero />
+        <About />
+        <Stack />
+        <Projects />
+        <Contact />
+      </main>  
+      <Footer />
     </>
   )
 }
