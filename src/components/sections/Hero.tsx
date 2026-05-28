@@ -42,7 +42,7 @@ function Hero() {
           >
             Conversar
           </a>
-          <span className="flex items-center gap-2 font-mono text-xs text-slate-500 ml-2">
+          <span className="flex items-center mt-2 gap-2 font-mono text-xs text-slate-500 ml-2">
             <span className="inline-block w-2 h-2 rounded-full bg-accent animate-blink" />
             aberto a estudar junto / freelas pequenas
           </span>
