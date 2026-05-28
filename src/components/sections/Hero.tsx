@@ -2,7 +2,7 @@ import Terminal from "../Terminal"
 
 function Hero() {
   return (
-    <section id="top" className="grid-bg pt-18 pb-24 px-6">
+    <section id="top" className="grid-bg pt-8 sm:pt-18 pb-24 px-6">
       <div className="max-w-5xl mx-auto flex flex-col gap-8">
 
         <p className="font-mono text-xs uppercase tracking-widest text-slate-500">

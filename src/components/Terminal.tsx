@@ -46,7 +46,7 @@ function Terminal() {
   }, [])
 
   return (
-    <div className="mt-16 max-w-2xl rounded-xl border border-ink-line bg-ink-soft/70 overflow-hidden reveal in">
+    <div className="mt-10 max-w-2xl rounded-xl border border-ink-line bg-ink-soft/70 overflow-hidden reveal in">
       <div className="flex items-center gap-1.5 px-4 py-2.5 border-b border-ink-line">
         <span className="w-2.5 h-2.5 rounded-full bg-slate-600" />
         <span className="w-2.5 h-2.5 rounded-full bg-slate-600" />
