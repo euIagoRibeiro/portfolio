@@ -1,13 +1,21 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Space Grotesk", system-ui, sans-serif;
-  --font-mono: "JetBrains Mono", ui-monospace, monospace;
 
-  --color-ink: #0e1014;
-  --color-ink-soft: #15181f;
-  --color-ink-line: #22262f;
+    --font-sans: "Space Grotesk", system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", ui-monospace, monospace;
 
-  --color-accent: #34d399;
-  --color-accent-soft: #10b981;
+    --color-ink: #0e1014;
+    --color-ink-soft: #15181f;
+    --color-ink-line: #22262f;
+
+    --color-accent: #34d399;
+    --color-accent-soft: #10b981;
+
+    --animate-blink: blink 1.2s steps(2) infinite;
+
+    @keyframes blink {
+    50% { opacity: 0; }
+
+    }
 }

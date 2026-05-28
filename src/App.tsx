@@ -4,9 +4,9 @@ import { Hero, About, Stack, Projects, Contact } from './components/sections';
 function App() {
 
   return (
-    <>
+    <div className='bg-ink min-h-screen text-slate-200'>
       <Header />
-      <main>
+      <main className='pt-24'>
         <Hero />
         <About />
         <Stack />
@@ -14,7 +14,7 @@ function App() {
         <Contact />
       </main>  
       <Footer />
-    </>
+    </div>
   )
 }
 
