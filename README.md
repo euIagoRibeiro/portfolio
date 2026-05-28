@@ -1,3 +1,4 @@
+
 # euiagoribeiro.com.br
 
 Meu portfólio pessoal. Construído com React, TypeScript, Vite e Tailwind CSS.
@@ -14,3 +15,7 @@ Meu portfólio pessoal. Construído com React, TypeScript, Vite e Tailwind CSS.
 ## Status
 
 🚧 Em desenvolvimento
+
+## Créditos
+
+Design elaborado com auxílio do [Claude](https://claude.ai). Implementação e código feitos por mim.
