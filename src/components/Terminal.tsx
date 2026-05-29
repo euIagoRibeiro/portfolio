@@ -55,7 +55,7 @@ function Terminal() {
       </div>
       <div className="px-5 py-4 font-mono text-[13px] leading-relaxed">
         <p className="text-slate-500"><span className="text-accent">→</span> cat sobre.txt</p>
-        <p className="text-slate-300">18 anos, baseado em São Paulo.</p>
+        <p className="text-slate-300">18 anos, baseado em Ribeirão Preto.</p>
         <p className="text-slate-300">Trocando o front pelo back aos poucos.</p>
         <p className="text-slate-300">Gosto de café, terminal limpo e logs bonitos.</p>
         <p className="text-slate-500">
