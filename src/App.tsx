@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='bg-ink min-h-screen text-slate-200'>
       <Header />
-      <main className='pt-24'>
+      <main className='pt-20'>
         <Hero />
         <About />
         <Stack />

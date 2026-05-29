@@ -1,6 +1,6 @@
 function About() {
   return (
-    <section className="py-24 px-6 border-t border-ink-line">
+    <section className="py-16 md:py-24 px-6 border-t border-ink-line">
       <div className="max-w-5xl mx-auto grid md:grid-cols-[200px_1fr] gap-10">
 
         <div className="reveal in">
