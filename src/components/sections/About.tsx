@@ -9,13 +9,13 @@ function About() {
         </div>
 
         <div>
-          <p className="text-xl leading-relaxed text-slate-300">
+          <p className="text-base md:text-xl leading-relaxed text-slate-300">
             Sou estudante, e isso é a parte mais honesta deste site. Estou no começo — gosto da sensação de descobrir como uma API funciona por dentro, de quebrar as coisas e ler stack traces até entender por que quebrou.
           </p>
-          <p className="mt-5 text-lg leading-relaxed text-slate-400">
+          <p className="mt-5 text-sm md:text-lg leading-relaxed text-slate-400">
             Por enquanto, meu objetivo é construir uma base sólida em TypeScript, Node e React. Comecei pelo front porque era visual, mas tô percebendo que o que me prende mais é o back-end: bancos, queries, arquitetura, a camada que ninguém vê. Vou levar isso a sério — sem pressa de me declarar sênior em nada.
           </p>
-          <p className="mt-5 text-lg leading-relaxed text-slate-400">
+          <p className="mt-5 text-sm md:text-lg leading-relaxed text-slate-400">
             Esse portfólio vai mudar bastante. Cada projeto novo entra aqui assim que ficar pronto o suficiente pra mostrar.
           </p>
 
